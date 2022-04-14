@@ -1,0 +1,5 @@
+Levantamento dos requisitos.
+
+-linguagem
+-ferramentas
+-funcoes
